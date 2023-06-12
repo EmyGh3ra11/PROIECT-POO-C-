@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1686472341 source:c:\users\emanuel\desktop\poo\totproiect_poo\poo_fotbal\src\player.cpp
+	"Player.h"
+
+1686569211 c:\users\emanuel\desktop\poo\totproiect_poo\poo_fotbal\include\player.h
+	<iostream>
+	<vector>
+
+1686472357 source:c:\users\emanuel\desktop\poo\totproiect_poo\poo_fotbal\src\team.cpp
+	"Team.h"
+
+1686559843 c:\users\emanuel\desktop\poo\totproiect_poo\poo_fotbal\include\team.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1686472413 source:c:\users\emanuel\desktop\poo\totproiect_poo\poo_fotbal\src\match.cpp
+	"Match.h"
+
+1686560370 c:\users\emanuel\desktop\poo\totproiect_poo\poo_fotbal\include\match.h
+	<iostream>
+	<cstdlib>
+	"Team.h"
+
+1686560285 source:c:\users\emanuel\desktop\poo\totproiect_poo\poo_fotbal\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"Player.h"
+	"Team.h"
+	"Match.h"
+
